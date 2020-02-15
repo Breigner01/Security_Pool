@@ -1,0 +1,1 @@
+auth=%7B%22data%22%3A%7B%22login%22%3A%22admin%22%2C%22password%22%3A%228c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918%22%7D%7D
